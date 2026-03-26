@@ -1,2 +1,2 @@
-# SimTools-Projekt
-Gruppenarbeit im Bereich statistische Simulation
+# Python Exercises
+My daily exercises on Python
